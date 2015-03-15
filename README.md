@@ -22,9 +22,9 @@
 ## Customize
 
 - change target files
-  - modify [`docIndex`](https://github.com/mohayonao/doc.html/blob/gh-pages/index.html#L38)
+  - modify [`docIndex`](https://github.com/mohayonao/doc.html/blob/gh-pages/index.html#L41)
 - change program language
-  - modify [`mdFromSourceCode`](https://github.com/mohayonao/doc.html/blob/gh-pages/index.html#L65)
+  - modify [`mdFromSourceCode`](https://github.com/mohayonao/doc.html/blob/gh-pages/index.html#L69)
 - others
   - modify [`index.html`](https://github.com/mohayonao/doc.html/blob/gh-pages/index.html)
 
